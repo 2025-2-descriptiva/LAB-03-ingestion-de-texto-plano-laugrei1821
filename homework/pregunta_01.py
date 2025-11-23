@@ -4,9 +4,7 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 
 # pylint: disable=import-outside-toplevel
 
-
-def pregunta_01():
-    """
+"""
     Construya y retorne un dataframe de Pandas a partir del archivo
     'files/input/clusters_report.txt'. Los requierimientos son los siguientes:
 
